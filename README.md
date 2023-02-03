@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlejandroBlanco2001, a Computer Scientist at Universidad del Norte 
 - 👀 I’m interested in Web devolopment and IA
-- 🌱 I’m currently learning Frame-Motion and GraphQL
+- 🌱 I’m currently learning Frame-Motion, GraphQL, FastAPI and Styleguidist
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 Reach me through alex.zgz@live.com
 
