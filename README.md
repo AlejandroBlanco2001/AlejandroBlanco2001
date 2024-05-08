@@ -5,7 +5,7 @@
 - 📫 Reach me through alex.zgz@live.com
 
 ```javascript
-const alejandro = {
+const Alejandro = {
   code: [Javascript, Typescript, HTML, CSS, SASS, Java, Python, SQL],
   tools: [React, Express, Node, ChakraUI, SocketIO, Vite, Jest, Pandas, ScikitLearn, MongoDB],
   challenge: "I'm doing a #100DaysOfCode with React and Typescript"
