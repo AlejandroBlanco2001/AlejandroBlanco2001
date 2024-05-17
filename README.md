@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlejandroBlanco2001, a Computer Scientist at Universidad del Norte 
+- 👋 Hi, I’m @AlejandroBlanco2001, a Computer Scientist from Universidad del Norte 
 - 👀 I’m interested in Web devolopment and IA
 - 🌱 I’m currently learning Frame-Motion, GraphQL, FastAPI and SpringBoot
 - 💞️ I’m looking to collaborate on any open source project
