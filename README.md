@@ -16,3 +16,15 @@ const Alejandro = {
 AlejandroBlanco2001/AlejandroBlanco2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Open Source Contributions 
+
+I like to contribute to Open Source projects with documentation, helping resolving doubts or if possible solving bugfixes.
+
+| Project | Issues resolved or contributing |
+|---|---|
+| [Microsoft terminal](https://github.com/microsoft/terminal/)  | [2](https://github.com/microsoft/terminal/pull/17198) |   
+| [Grafana](https://github.com/grafana/grafana)  | [1](https://github.com/grafana/grafana/issues/89940) |
+| [DBT](https://github.com/dbt-labs) | [1](https://github.com/dbt-labs/dbt-adapters/pull/203) |
+| [MyUS](https://github.com/PuzzleTechHub/myus) | [1](https://github.com/PuzzleTechHub/myus/pull/36) |
+
